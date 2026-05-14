@@ -1,4 +1,4 @@
-# MiniCAS
+# Mini CAS
 
 - integers like `5`
 - rationals like `2/3`
