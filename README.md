@@ -46,7 +46,7 @@ Exact reconstruction check:
   passed
 ```
 ## Project layout
-
+```
 Mini CAS/
 ├── src/
 │   ├── app/
@@ -71,7 +71,7 @@ Mini CAS/
 │       └── PartialFractions.cpp
 └── tests/
     └── ParserTests.cpp
-    
+```
 ## Build
 
 **CLI build**
