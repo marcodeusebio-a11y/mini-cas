@@ -19,13 +19,13 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		7C1DA9072FB5D09200C3B955 /* Mini Symbolic CAS for Rational Functions */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Mini Symbolic CAS for Rational Functions"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7C1DA9072FB5D09200C3B955 /* Mini CAS */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Mini CAS"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		7C1DA9092FB5D09200C3B955 /* Mini Symbolic CAS for Rational Functions */ = {
+		7C1DA9092FB5D09200C3B955 /* Mini CAS */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Mini Symbolic CAS for Rational Functions";
+			path = "Mini CAS";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -44,7 +44,7 @@
 		7C1DA8FE2FB5D09200C3B955 = {
 			isa = PBXGroup;
 			children = (
-				7C1DA9092FB5D09200C3B955 /* Mini Symbolic CAS for Rational Functions */,
+				7C1DA9092FB5D09200C3B955 /* Mini CAS */,
 				7C1DA9082FB5D09200C3B955 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -52,7 +52,7 @@
 		7C1DA9082FB5D09200C3B955 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				7C1DA9072FB5D09200C3B955 /* Mini Symbolic CAS for Rational Functions */,
+				7C1DA9072FB5D09200C3B955 /* Mini CAS */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -60,9 +60,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		7C1DA9062FB5D09200C3B955 /* Mini Symbolic CAS for Rational Functions */ = {
+		7C1DA9062FB5D09200C3B955 /* Mini CAS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7C1DA90E2FB5D09200C3B955 /* Build configuration list for PBXNativeTarget "Mini Symbolic CAS for Rational Functions" */;
+			buildConfigurationList = 7C1DA90E2FB5D09200C3B955 /* Build configuration list for PBXNativeTarget "Mini CAS" */;
 			buildPhases = (
 				7C1DA9032FB5D09200C3B955 /* Sources */,
 				7C1DA9042FB5D09200C3B955 /* Frameworks */,
@@ -73,13 +73,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				7C1DA9092FB5D09200C3B955 /* Mini Symbolic CAS for Rational Functions */,
+				7C1DA9092FB5D09200C3B955 /* Mini CAS */,
 			);
-			name = "Mini Symbolic CAS for Rational Functions";
+			name = "Mini CAS";
 			packageProductDependencies = (
 			);
 			productName = "Mini Symbolic CAS for Rational Functions";
-			productReference = 7C1DA9072FB5D09200C3B955 /* Mini Symbolic CAS for Rational Functions */;
+			productReference = 7C1DA9072FB5D09200C3B955 /* Mini CAS */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -96,7 +96,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 7C1DA9022FB5D09200C3B955 /* Build configuration list for PBXProject "Mini Symbolic CAS for Rational Functions" */;
+			buildConfigurationList = 7C1DA9022FB5D09200C3B955 /* Build configuration list for PBXProject "Mini CAS" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -110,7 +110,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				7C1DA9062FB5D09200C3B955 /* Mini Symbolic CAS for Rational Functions */,
+				7C1DA9062FB5D09200C3B955 /* Mini CAS */,
 			);
 		};
 /* End PBXProject section */
@@ -260,7 +260,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		7C1DA9022FB5D09200C3B955 /* Build configuration list for PBXProject "Mini Symbolic CAS for Rational Functions" */ = {
+		7C1DA9022FB5D09200C3B955 /* Build configuration list for PBXProject "Mini CAS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7C1DA90C2FB5D09200C3B955 /* Debug */,
@@ -269,7 +269,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7C1DA90E2FB5D09200C3B955 /* Build configuration list for PBXNativeTarget "Mini Symbolic CAS for Rational Functions" */ = {
+		7C1DA90E2FB5D09200C3B955 /* Build configuration list for PBXNativeTarget "Mini CAS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7C1DA90F2FB5D09200C3B955 /* Debug */,
