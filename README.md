@@ -9,7 +9,7 @@
   - `2x`
   - `x(x+1)`
 
-### Exact partial fractions
+## Exact partial fractions
 
 The current partial-fractions layer supports:
 - proper and improper rational functions
